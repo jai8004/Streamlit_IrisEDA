@@ -143,3 +143,6 @@ if st.button("About App"):
 
 if st.checkbox("By"):
     st.text("Jai Singh")
+
+if __name__ == "__main__":
+    main()
